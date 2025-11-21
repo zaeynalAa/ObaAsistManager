@@ -2,4 +2,4 @@ NickName= History=21/11/2025
 14:00=5
 NickName=ZeynOrucows History=21/11/2025
 14:00=40
-18:00=25
+18:00=80
