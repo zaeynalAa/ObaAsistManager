@@ -8,3 +8,4 @@ Name:EhrmanCiyelekBanan290qr 26/01/2026
 Name:AlpenlandCiyelek290qr 31/12/2025 25/03/2026 04/03/2026
 Name:AlpenlandSaftali290qr 03/02/2026 31/12/2025
 Name:MillaSaftali290qr 25/12/2025
+Name:Millaciyelek290qr 24/12/2025
