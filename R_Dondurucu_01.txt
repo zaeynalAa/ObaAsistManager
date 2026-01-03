@@ -9,3 +9,4 @@ Name:AlpenlandCiyelek290qr T_31/12/2025 25/03/2026 04/03/2026
 Name:AlpenlandSaftali290qr 03/02/2026 T_31/12/2025
 Name:MillaSaftali290qr T_25/12/2025
 Name:Millaciyelek290qr T_24/12/2025
+Name:DanoneCiyelek 15/01/2026
