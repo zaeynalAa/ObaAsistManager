@@ -32,3 +32,4 @@ Name:MillaFetaPendir 18/02/2026 13/03/2026
 Name:labne200qr 08/03/2026
 Name:RomaskaXama 11/02/2026 26/03/2026 14/02/2026
 Name:DerevenskiXama650qr 10/02/2026 07/02/2026 06/02/2026
+Name:millaAyran200ml 26/02/2026
