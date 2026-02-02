@@ -24,3 +24,4 @@ Name:xamaFermer 11/02/2026
 Name:millaXama300qr 27/02/2026
 Name:burenskiTVQaragile 12/02/2026 02/04/2026 01/03/2026
 Name:burenskiTVAlbali 04/03/2026 26/02/2026 15/02/2026 12/02/2026
+Name:burenskiTVCiyelek 02/04/2026
