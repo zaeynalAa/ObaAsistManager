@@ -51,3 +51,4 @@ Name:incedadSosis 19/02/2026 26/02/2026
 Name:Ekstrasosis 21/02/2026
 Name:ManqalUstu 21/02/2026
 Name:sedefİzqaraSosis 10/02/2026
+Name:ovcularKulleme 15/02/2026
