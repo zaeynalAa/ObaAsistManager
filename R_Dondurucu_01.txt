@@ -41,3 +41,4 @@ Name:millaAyran300ml 23/02/2026
 Name:azersudAyran200ml 13/02/2026 28/02/2026 18/02/2026
 Name:ivanuskaSor 09/02/2026
 Name:papaMojet 25/02/2026
+Name:cerkizServelat 19/02/2026
