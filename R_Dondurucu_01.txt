@@ -68,3 +68,4 @@ Name:millaCiyelek115qr 26/03/2026
 Name:hergunSor350qr 09/02/2026 13/02/2026 18/02/2026 20/02/2026
 Name:rbSor 18/02/2026
 Name:rbSorBenovseyi 10/02/2026 13/02/2026
+Name:ismayilliSor 18/02/2026
