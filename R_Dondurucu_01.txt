@@ -58,3 +58,4 @@ Name:atenaHomogenize3.6 20/02/2026 27/02/2026
 Name:rbQatiq 19/02/2026
 Name:millaQatiq450qr 22/02/2026
 Name:atenaHomogenize1.5bl 18/02/2026
+Name:millaQatiq1kg 22/02/2026
