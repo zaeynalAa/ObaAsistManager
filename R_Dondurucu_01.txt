@@ -54,4 +54,4 @@ Name:sedefİzqaraSosis 10/02/2026
 Name:ovcularKulleme 15/02/2026
 Name:OvcularKlasic 16/02/2026 14/02/2026
 Name:atenaHomogenize1.5 20/02/2026 27/02/2026
-Name:atenaHomogenize3.6 20/02/2026
+Name:atenaHomogenize3.6 20/02/2026 27/02/2026
