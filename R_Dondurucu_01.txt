@@ -65,4 +65,4 @@ Name:tavadaSosis 28/02/2026
 Name:tamdadServelat:3 25/02/2026
 Name:rbKesmik 19/03/2026
 Name:millaCiyelek115qr 26/03/2026
-Name:hergunSor350qr 09/02/2026 13/02/2026 18/02/2026
+Name:hergunSor350qr 09/02/2026 13/02/2026 18/02/2026 20/02/2026
