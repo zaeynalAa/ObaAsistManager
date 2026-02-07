@@ -34,7 +34,7 @@ Name:RomaskaXama 11/02/2026 26/03/2026 14/02/2026
 Name:DerevenskiXama650qr T_10/02/2026 T_07/02/2026 T_06/02/2026
 Name:millaAyran200ml 26/02/2026 01/03/2026
 Name:azersud180Ml 29/02/2026 19/02/2026
-Name:atenaAyran180ml 10/02/2026
+Name:atenaAyran180ml T_10/02/2026
 Name:drmilkDovga 15/02/2026
 Name:millaNaneli300ml 05/03/2026
 Name:millaAyran300ml 23/02/2026 06/03/2026
