@@ -39,7 +39,7 @@ Name:drmilkDovga 15/02/2026
 Name:millaNaneli300ml 05/03/2026
 Name:millaAyran300ml 23/02/2026 06/03/2026
 Name:azersudAyran200ml 13/02/2026 28/02/2026 18/02/2026
-Name:ivanuskaSor 09/02/2026 19/02/2026
+Name:ivanuskaSor T_09/02/2026 19/02/2026
 Name:papaMojet 25/02/2026
 Name:cerkizServelat 19/02/2026
 Name:carcinoKafkaz1000qr 21/02/2026
