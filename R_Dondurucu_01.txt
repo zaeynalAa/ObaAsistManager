@@ -19,7 +19,7 @@ Name:danoneSaftali100qr 03/03/2026
 Name:danoneCiyelek100qr 28/02/2026
 Name:alpena90qr T_16/02/2026 T_17/02/2026 20/02/2026
 Name:millaKesmik 24/02/2026
-Name:ivanuskaKesmik 13/02/2026
+Name:ivanuskaKesmik T_13/02/2026
 Name:xamaFermer 11/02/2026
 Name:millaXama300qr 27/02/2026
 Name:burenskiTVQaragile 12/02/2026 02/04/2026 01/03/2026
