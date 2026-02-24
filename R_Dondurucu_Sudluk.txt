@@ -22,3 +22,4 @@ Name:RBPehrizKesmik200qr 10/03/2026
 Name:SutashQaymaq200qr 30/03/2026
 Name:SlavyanskieXama200qr 23/03/2026
 Name:DerevenskieXama15%200qr 12/04/2026
+Name:DerevenskieXama20%200qr 11/04/2026 25/04/2026
