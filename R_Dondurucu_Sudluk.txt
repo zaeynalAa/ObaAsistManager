@@ -32,7 +32,7 @@ Name:EhrmannXana20%320qr 04/05/2026
 Name:MillaAyran200mlST 21/03/2026 05/03/2026
 Name:AzersudAyran200ml 13/03/2026
 Name:AtenaAyran180ml 14/03/2026
-Name:MillaAyran300ml 23/03/2026 23/02/2026 06/02/2026
+Name:MillaAyran300ml 23/03/2026 T_23/02/2026 06/02/2026
 Name:MillaAyranNaneli300ml 05/03/2026
 Name:MillaAyran200ml 01/03/2026
 Name:MillaNaneliAyran200ml 16/03/2026
