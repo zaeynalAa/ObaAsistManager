@@ -13,3 +13,4 @@ Name:AlpenaCiyelek90qr 19/03/2026 04/03/2026 13/03/2026
 Name:DanoneCiyelek100qr 19/03/2026
 Name:DanoneBanan100qr 16/03/2026
 Name:BurenkinLuqAlbaliTV 16/04/2026
+Name:BurenkinLuqCiyelekTV 27/04/2026 02/04/2026
