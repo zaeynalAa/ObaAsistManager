@@ -49,4 +49,4 @@ Name:RoklerPendir130qr 14/05/2026
 Name:MillaFetaPendir250qr 28/05/2026
 Name:MillaFetaPendir450qr 21/05/2026
 Name:RomashkaXama25%180qr 28/03/2026 31/03/2026
-Name:RomashkaXama25%320qr 28/03/2026
+Name:RomashkaXama25%320qr 28/03/2026 20/03/2026
