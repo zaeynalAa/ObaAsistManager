@@ -37,7 +37,7 @@ Name:azersud180Ml 29/02/2026 T_19/02/2026
 Name:atenaAyran180ml T_10/02/2026
 Name:drmilkDovga T_15/02/2026
 Name:millaNaneli300ml 05/03/2026
-Name:millaAyran300ml 23/02/2026 06/03/2026
+Name:millaAyran300ml T_23/02/2026 06/03/2026
 Name:azersudAyran200ml T_13/02/2026 28/02/2026 T_18/02/2026
 Name:ivanuskaSor T_09/02/2026 T_19/02/2026
 Name:papaMojet 25/02/2026
