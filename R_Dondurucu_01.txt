@@ -21,7 +21,7 @@ Name:alpena90qr T_16/02/2026 T_17/02/2026 T_20/02/2026
 Name:millaKesmik T_24/02/2026
 Name:ivanuskaKesmik T_13/02/2026
 Name:xamaFermer T_11/02/2026
-Name:millaXama300qr 27/02/2026
+Name:millaXama300qr T_27/02/2026
 Name:burenskiTVQaragile T_12/02/2026 02/04/2026 01/03/2026
 Name:burenskiTVAlbali 04/03/2026 26/02/2026 T_15/02/2026 T_12/02/2026
 Name:burenskiTVCiyelek 02/04/2026
