@@ -56,7 +56,7 @@ Name:OvcularKlasic T_16/02/2026 T_14/02/2026 T_21/02/2026
 Name:atenaHomogenize1.5 T_20/02/2026 T_27/02/2026
 Name:atenaHomogenize3.6 T_20/02/2026 T_27/02/2026
 Name:rbQatiq T_19/02/2026
-Name:millaQatiq450qr 22/02/2026
+Name:millaQatiq450qr T_22/02/2026
 Name:atenaHomogenize1.5bl T_18/02/2026
 Name:millaQatiq1kg T_22/02/2026
 Name:hergunQatiq700qr T_16/02/2026
