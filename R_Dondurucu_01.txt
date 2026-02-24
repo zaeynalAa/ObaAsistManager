@@ -32,7 +32,7 @@ Name:MillaFetaPendir T_18/02/2026 13/03/2026
 Name:labne200qr 08/03/2026
 Name:RomaskaXama T_11/02/2026 26/03/2026 T_14/02/2026
 Name:DerevenskiXama650qr T_10/02/2026 T_07/02/2026 T_06/02/2026
-Name:millaAyran200ml 26/02/2026 01/03/2026
+Name:millaAyran200ml T_26/02/2026 01/03/2026
 Name:azersud180Ml 29/02/2026 T_19/02/2026
 Name:atenaAyran180ml T_10/02/2026
 Name:drmilkDovga T_15/02/2026
