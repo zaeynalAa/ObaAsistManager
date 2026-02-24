@@ -10,7 +10,6 @@ Name:AlpenlandSaftali290qr T_03/02/2026 T_31/12/2025
 Name:MillaSaftali290qr T_18/02/2026
 Name:Millaciyelek290qr T_24/12/2025
 Name:DanoneCiyelek T_15/01/2026
-Name:mimi T_19/02/2026
 Name:MillaCiyelek115qr T_13/02/2026
 Name:millaSaftali115qr T_20/02/2026 T_12/02/2026 26/03/2026
 Name:millaGilemeyve115qr T_20/02/2026 26/03/2026
