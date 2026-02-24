@@ -60,3 +60,4 @@ Name:MillaNaneliAyran1L 31/03/2026
 Name:AzersudAyran1L 25/03/2026
 Name:İsmayilliXama170qr 12/03/2026
 Name:DerevenskieXama20%650qr 25/04/2026
+Name:EhrmanXama20%320qr 27/05/2026
