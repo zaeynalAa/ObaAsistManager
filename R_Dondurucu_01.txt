@@ -48,7 +48,7 @@ Name:yelkenKilke T_23/02/2026
 Name:CerkizovaKolbasa T_18/02/2026 03/04/2026
 Name:ocaqSosis T_11/02/2026 T_27/02/2026
 Name:incedadSosis T_19/02/2026 T_26/02/2026
-Name:Ekstrasosis 21/02/2026 28/02/2026
+Name:Ekstrasosis T_21/02/2026 28/02/2026
 Name:ManqalUstu 21/02/2026 24/02/2026
 Name:sedefİzqaraSosis T_10/02/2026 24/02/2026
 Name:ovcularKulleme T_15/02/2026
