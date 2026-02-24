@@ -62,7 +62,7 @@ Name:millaQatiq1kg T_22/02/2026
 Name:hergunQatiq700qr T_16/02/2026
 Name:nefisdadSosis 16/03/2026 12/03/2026
 Name:tavadaSosis 28/02/2026
-Name:tamdadServelat:3 25/02/2026
+Name:tamdadServelat:3 T_25/02/2026
 Name:rbKesmik 19/03/2026
 Name:millaCiyelek115qr 26/03/2026
 Name:hergunSor350qr T_09/02/2026 T_13/02/2026 T_18/02/2026 T_20/02/2026
