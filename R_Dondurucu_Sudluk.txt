@@ -39,7 +39,7 @@ Name:MillaNaneliAyran200ml 16/03/2026
 Name:HergunSorDadli 29/02/2026
 Name:QaymaqliSor T_06/03/2026 10/03/2026
 Name:RBSorWhiteCheese 07/03/2026
-Name:İvanuskaSor T_02/03/2026 06/03/2026
+Name:İvanuskaSor T_02/03/2026 T_06/03/2026
 Name:MillaAyran1L 09/03/2026 11/03/2026 13/03/2026
 Name:AtenaAyran1L 16/03/2026
 Name:AtenaHomogenize1.5%330qr 14/03/2026
