@@ -44,7 +44,7 @@ Name:MillaAyran1L T_09/03/2026 11/03/2026 13/03/2026
 Name:AtenaAyran1L 16/03/2026
 Name:AtenaHomogenize1.5%330qr 14/03/2026
 Name:AlpenlandCiyelek290qr 25/03/2026 T_04/03/2026
-Name:MillaCiyelek270ml 07/03/2026
+Name:MillaCiyelek270ml T_07/03/2026
 Name:RoklerPendir130qr 14/05/2026
 Name:MillaFetaPendir250qr 28/05/2026
 Name:MillaFetaPendir450qr 21/05/2026
