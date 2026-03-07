@@ -18,7 +18,7 @@ Name:BurenkinLuqQaragileTV 16/04/2026 17/04/2026
 Name:BurenkinLuqMalinaYQ 02/04/2026
 Name:BurenkinLuqCiyelekYQ 02/04/2026
 Name:İvanuskaKesmik200qr T_06/03/2026 T_08/03/2026
-Name:RBPehrizKesmik200qr 10/03/2026
+Name:RBPehrizKesmik200qr T_10/03/2026
 Name:SutashQaymaq200qr 30/03/2026
 Name:SlavyanskieXama200qr 23/03/2026
 Name:DerevenskieXama15%200qr 12/04/2026 23/04/2026 25/04/2026
