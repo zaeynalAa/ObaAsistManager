@@ -52,7 +52,7 @@ Name:RomashkaXama25%180qr 28/03/2026 31/03/2026
 Name:RomashkaXama25%320qr 28/03/2026 20/03/2026
 Name:MillaXama25%300qr T_05/03/2026
 Name:YejedenPendirGobelek180qr 09/04/2026
-Name:PinarLabne 08/03/2026
+Name:PinarLabne T_08/03/2026
 Name:SutasLabne200qr 30/04/2026
 Name:WillePendir100qr 30/04/2026
 Name:MillaQaymaq200ml 26/04/2026
