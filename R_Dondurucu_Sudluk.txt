@@ -40,7 +40,7 @@ Name:HergunSorDadli 29/02/2026
 Name:QaymaqliSor T_06/03/2026 T_10/03/2026
 Name:RBSorWhiteCheese T_07/03/2026
 Name:İvanuskaSor T_02/03/2026 T_06/03/2026
-Name:MillaAyran1L T_09/03/2026 11/03/2026 13/03/2026
+Name:MillaAyran1L T_09/03/2026 T_11/03/2026 13/03/2026
 Name:AtenaAyran1L 16/03/2026
 Name:AtenaHomogenize1.5%330qr 14/03/2026
 Name:AlpenlandCiyelek290qr 25/03/2026 T_04/03/2026
