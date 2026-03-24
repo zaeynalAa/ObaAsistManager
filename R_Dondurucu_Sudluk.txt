@@ -10,7 +10,7 @@ Name:MillaCiyelek115qr T_11/03/2026 T_05/03/2026 T_01/03/2026 T_18/03/2026
 Name:MillaGilemeyve115qr T_12/03/2026 T_18/03/2026
 Name:mimiBananli100qr T_06/03/2026 T_12/03/2026
 Name:AlpenaCiyelek90qr T_19/03/2026 T_04/03/2026 T_13/03/2026
-Name:DanoneCiyelek100qr 19/03/2026
+Name:DanoneCiyelek100qr T_19/03/2026
 Name:DanoneBanan100qr 16/03/2026
 Name:BurenkinLuqAlbaliTV 16/04/2026
 Name:BurenkinLuqCiyelekTV 27/04/2026 02/04/2026 16/04/2026 30/04/2026
